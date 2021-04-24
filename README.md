@@ -135,7 +135,7 @@ __请ㅤㅤ认ㅤㅤ真ㅤㅤ阅ㅤㅤ读ㅤㅤ教ㅤㅤ程ㅤ，ㅤ90%ㅤㅤ的
 |   Kali      |  2019 ~ 2021.1  |
 > 友情提示：如果您的系统或版本不在此列表中则无法使用此脚本，即时误执行也不会有任何的更改
 #### __脚本一键部署：__
-    bash <(curl -sSL https://gitee.com/SuperManito/JD-FreeFuck/raw/main/install.sh)
+    bash <(curl -sSL https://raw.githubusercontent.com/kissggj123/New_JD-FreeFuck-Fix/main/install.sh)
 > _注意：如果您想安装到其它目录，请下载该脚本后更改相关变量手动部署，同时在未来的手动更新中也需如此操作。_
 #### __设置全局环境变量：__
     source /etc/profile
@@ -313,7 +313,6 @@ __请ㅤㅤ认ㅤㅤ真ㅤㅤ阅ㅤㅤ读ㅤㅤ教ㅤㅤ程ㅤ，ㅤ90%ㅤㅤ的
 ***
 
 ## 明天会更好
-<img src="./icon/thank.jpg" width="280" height="280" alt="微信赞赏码"/><br/>
 ### 开发不易、维护艰辛，如果您愿意支持此项目，可向我捐助。
 
 ***
