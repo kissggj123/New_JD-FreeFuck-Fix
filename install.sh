@@ -19,7 +19,7 @@
 ## 安装目录
 BASE="/opt/jd"
 ## 项目分支
-JD_BASE_BRANCH="source"
+JD_BASE_BRANCH="main"
 ## 项目地址
 JD_BASE_URL="https://github.com/kissggj123/New_JD-FreeFuck-Fix.git"
 ## 活动脚本库私钥
